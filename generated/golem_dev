@@ -1,0 +1,5 @@
+golem::add_module(name = "selectInput_GET_projects")
+golem::add_module(name = "selectInput_GET_experimental_series")
+golem::add_module(name = "selectInput_GET_measures")
+golem::add_module(name = "selectInput_GET_compartment_replicates")
+golem::add_module(name = "selectInput_GET_monitored_measure_types")
